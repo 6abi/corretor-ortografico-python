@@ -2,7 +2,7 @@
 <h1 align="left">corretor-ortografico-python</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left"> Desenvolvimento de uma versão mini de um corretor ortográfico</p>
-<p align="left"> </p>
+<p align="left">O conceito estudado aqui é o de NLP (natural language processing) ou processamento de linguagem natural (PLN em português) </p>
 <p align="left">Base de Dados usada: <a href="" target="_blank" align = "center">Dados de treino e testes </a> </p>
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
