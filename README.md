@@ -2,7 +2,7 @@
 <h1 align="left">corretor-ortografico-python</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left"> Desenvolvimento de uma versão mini de um corretor ortográfico sem trabalhar com inferência.</p>
-<p align="left">O projeto tem o objetivo de estudar os conceitos de NLP (natural language processing) ou processamento de linguagem natural (PLN em português), portanto, trata-se de um mini corretor. Ele capaz de corrigir palavras onde o erro está localizado até uma distância 2 da palavra correta. </p>
+<p align="left">O projeto tem o objetivo de estudar os conceitos de NLP (natural language processing) ou processamento de linguagem natural (PLN em português), portanto, trata-se de um mini corretor. Ele é capaz de corrigir palavras onde o erro está localizado até uma distância 2 da palavra correta. </p>
 <h3 align="left">Exemplos de erros</p>
 <table>
 	<tbody>
