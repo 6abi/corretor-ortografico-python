@@ -32,7 +32,7 @@
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
 <h4 align="left"> 
- 🚧Em construção... 🚧
+	<p align="left">🚧Em construção... 🚧</p>
 </h4>
 
 
