@@ -8,23 +8,23 @@
 	<tbody>
 		<tr>
 			<th>Palavra errada </th>
-			<th>$ Distância </th>
-			<th>$ Palavra correta </th>
+			<th> Distância </th>
+			<th> Palavra correta </th>
 		</tr>
 		<tr>
 			<th>ógica </th>
-			<th>$ 1 </th>
-			<th>$ lógica </th>
+			<th> 1 </th>
+			<th> lógica </th>
 		</tr>
 		<tr>
 			<th>lógiica </th>
-			<th>$ 2 </th>
-			<th>$ lógica </th>
+			<th> 2 </th>
+			<th> lógica </th>
 		</tr>
 		<tr>
 			<th>lógiicaa </th>
-			<th>$ 3 </th>
-			<th>$ Não corrigi a palavra❌  </th>
+			<th> 3 </th>
+			<th> Não corrigi a palavra❌  </th>
 		</tr>
 	</tbody>
 </table>
