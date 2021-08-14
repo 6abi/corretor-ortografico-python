@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<th>lógiicaa </th>
-			<th> 3 </th>
+			<th> >2 </th>
 			<th> Não corrigi a palavra❌  </th>
 		</tr>
 	</tbody>
