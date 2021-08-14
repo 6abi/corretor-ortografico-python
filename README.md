@@ -28,7 +28,7 @@
 		</tr>
 	</tbody>
 </table>
-<p align="left">Base de Dados usada: <a href="" target="_blank" align = "center">Dados de treino e testes </a> </p>
+<p align="left">Base de Dados usada: <a href="https://github.com/6abi/corretor-ortografico-python/tree/master/data" target="_blank" align = "center">Dados de treino e testes </a> </p>
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
 <h4 align="left"> 
