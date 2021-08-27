@@ -88,5 +88,4 @@
 <!-- <div align="left" class='result'>
 	<h3 align="left"> ➡ Correlação das Vendas ⬅</h3>
 	<img alt="#vendas" title="#vendas" src="./result_git/vendas.png" width=1200" height="600"/>
-</div>-->
-												 
+</div>--										 
