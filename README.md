@@ -3,7 +3,6 @@
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left"> Desenvolvimento de uma versão mini de um corretor ortográfico sem trabalhar com inferência.</p>
 <p align="left">O projeto tem o objetivo de estudar os conceitos de NLP (natural language processing) ou processamento de linguagem natural (PLN em português), portanto, trata-se de um mini corretor. Ele é capaz de corrigir palavras onde o erro está localizado até uma distância 2 da palavra correta. </p>
-
 <h3 align="left">Exemplos de erros</p>
 <table>
 	<tbody>
@@ -64,8 +63,6 @@
   	<p align="left">OU</p>
   	<p align="left">Conta no Google Colab</p>
 </div>
-
-
 
 <!-- How to execute -->
 <div align="left" class='container'>
